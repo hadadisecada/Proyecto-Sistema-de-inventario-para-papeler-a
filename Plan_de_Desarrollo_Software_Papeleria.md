@@ -18,6 +18,7 @@
 7. [Plan de Iteración (Elaboración 1 - E1)](#7-plan-de-iteración-elaboración-1---e1)
 8. [Plan de Fases y Plan de Desarrollo de Software (SDP)](#8-plan-de-fases-y-plan-de-desarrollo-de-software-sdp)
 9. [Caso de Desarrollo (Personalización de UP)](#9-caso-de-desarrollo-personalización-de-up)
+10. [Backlog de Historias de Usuario](#10-backlog-de-historias-de-usuario)
 
 ---
 
@@ -176,6 +177,18 @@ Se adopta un **Proceso Unificado Ágil (Agile UP)** ajustado a las necesidades e
 - Se omiten artefactos burocráticos pesados (Modelos de Análisis intermedios, diagramas BPMN corporativos).
 - Se priorizan los artefactos que aportan valor directo: **Casos de Uso núcleo**, **FURPS+**, **Gestión de Riesgos** y **Entregables Ejecutables** cada 2 semanas.
 - Se asegura la trazabilidad entre los requisitos de Papelería Liz-Leo y el código construido.
+
+---
+
+## 10. Backlog de Historias de Usuario (Agile Backlog)
+
+Para complementar los Casos de Uso dentro del marco ágil de desarrollo (sprints e iteraciones), los requerimientos se estructuran en 16 Historias de Usuario organizadas en 4 épicas (73 Story Points en total con criterios INVEST y formato Given-When-Then):
+- **Épica 1: Punto de Venta (POS) y Mostrador:** HU-01 (Venta con escáner de código de barras), HU-02 (Atajos F1-F12 para servicios y granel), HU-03 (Consulta rápida de stock y precios), HU-04 (Cobro en efectivo y cambio en MXN) y HU-05 (Cancelaciones y devoluciones autorizadas).
+- **Épica 2: Catálogo y Rotulado:** HU-06 (Alta y gestión de catálogo en $ MXN) y HU-07 (Generación de etiquetas con código de barras interno).
+- **Épica 3: Inventario, Despiece y Proveedores:** HU-08 (Recepción de compras y costo promedio ponderado), HU-09 (Despiece de bultos a piezas sueltas), HU-10 (Registro clasificado de mermas y daños), HU-11 (Alertas de stock mínimo y compras de temporada escolar) y HU-12 (Trazabilidad en Kardex valorizado).
+- **Épica 4: Auditoría, Reportes y Seguridad:** HU-13 (Auditoría física con conteo ciego y desbalance en MXN), HU-14 (Reportes ejecutivos de utilidad bruta), HU-15 (Control de perfiles RBAC) y HU-16 (Respaldos automáticos con tolerancia a fallas eléctricas).
+
+*El detalle pormenorizado con criterios de aceptación Gherkin y reglas de negocio se encuentra en [`docs/10_Historias_de_Usuario.md`](docs/10_Historias_de_Usuario.md).*
 
 ---
 

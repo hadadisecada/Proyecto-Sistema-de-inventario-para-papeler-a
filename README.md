@@ -18,6 +18,7 @@ Este repositorio contiene la documentación completa de la **Fase de Inicio (Inc
 | 7 | **Plan de Iteración (Elaboración 1)** | Objetivos, WBS de 80 horas-hombre, tareas y criterios de aceptación para la primera iteración ejecutable en Liz-Leo. | [`docs/07_Plan_de_Iteracion.md`](docs/07_Plan_de_Iteracion.md) |
 | 8 | **Plan de Fases y Plan de Desarrollo** | Cronograma de 15 semanas (Inicio, Elaboración, Construcción, Transición), presupuesto total en MXN y equipo. | [`docs/08_Plan_de_Fases_y_Plan_Desarrollo.md`](docs/08_Plan_de_Fases_y_Plan_Desarrollo.md) |
 | 9 | **Caso de Desarrollo** | Personalización ágil (Agile UP) adaptada específicamente a las necesidades operativas de Papelería Liz-Leo. | [`docs/09_Caso_de_Desarrollo.md`](docs/09_Caso_de_Desarrollo.md) |
+| 10 | **Historias de Usuario (User Stories)** | Backlog ágil de 16 historias con criterios INVEST, formato BDD (Given-When-Then) y 73 Story Points. | [`docs/10_Historias_de_Usuario.md`](docs/10_Historias_de_Usuario.md) |
 
 ---
 

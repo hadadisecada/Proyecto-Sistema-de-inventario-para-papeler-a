@@ -24,6 +24,7 @@ La siguiente tabla resume los artefactos de UP seleccionados para el ciclo de vi
 |---|---|:---:|:---:|:---:|:---:|---|---|
 | **Gestión de Proyecto** | Visión y Caso de Negocio | **s** | **r** | m | m | Medio | Define el alcance financiero en pesos ($ MXN) y límites del software en tienda. |
 | **Requisitos** | Modelo de Casos de Uso | **s** (10-15%) | **r** (80%) | m | m | Alto (para CU núcleo) | Crucial para asegurar que el flujo de cobro y descarga de inventario sea exacto. |
+| **Requisitos** | Historias de Usuario (Backlog) | **s** | **r** | **r** | m | Alto | Desglosa los CU en historias ágiles con criterios BDD para sprints. |
 | **Requisitos** | Especificación Suplementaria | **s** | **r** | m | m | Alto | Define requisitos críticos de usabilidad (teclado rápido) y periféricos POS. |
 | **Requisitos** | Glosario y Diccionario de Datos | **s** | **r** | m | m | Medio | Estandariza conceptos como "despiece", "merma", productos en MXN y temporadas. |
 | **Gestión de Proyecto** | Lista de Riesgos | **s** | **r** | **r** | m | Alto | Control continuo de riesgos de captura de inventario y periféricos de Liz-Leo. |
