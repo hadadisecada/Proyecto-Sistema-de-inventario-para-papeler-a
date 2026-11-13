@@ -324,3 +324,4 @@ Una Historia de Usuario se da por **COMPLETADA (Done)** en el ciclo de vida del 
 4. Ha sido probada con los periféricos reales (lector de código de barras USB o impresora térmica ESC/POS cuando aplique).
 5. Las transacciones que alteran existencias se reflejan atómicamente en el Kardex.
 6. Ha sido demostrada y aprobada por el dueño de la **Papelería Liz-Leo**.
+
